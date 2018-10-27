@@ -12,6 +12,8 @@ footer: true
 
 The thermostat card gives control of your climate entity.
 
+This card was introduced in version: 0.xx.
+
 <p class='img'>
   <img src='/images/lovelace/lovelace_thermostat_card.gif' alt='Screenshot of the thermostat card'>
   Screenshot of the thermostat card.
